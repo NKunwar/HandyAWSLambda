@@ -1,7 +1,7 @@
 # HandyAWSLambda
 AWS Lambda functions practice &amp; learning
 
-First lambda function steps:
+Creating First lambda function steps:
 
 Step 1: Create a Lambda project in eclipse and change the Input type from Object to String
 	Step 1.1: Write unique name for your Lambda Handler class
